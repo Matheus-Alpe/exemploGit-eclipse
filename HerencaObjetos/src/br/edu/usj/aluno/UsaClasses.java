@@ -9,7 +9,7 @@ public class UsaClasses {
 		Gato gato1 = new Gato();
 		
 		gato1.setNome(JOptionPane.showInputDialog("Digite o nome do gato:"));;		
-		gato1.setTipoPelo("Branco");
+		gato1.setTipoPelo("Preto");
 		gato1.setRaca("Persa");
 		gato1.setTamanho(20.5);
 		gato1.setPeso(5.9);
