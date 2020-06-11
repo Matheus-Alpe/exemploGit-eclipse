@@ -7,7 +7,7 @@ public class UsaClasses {
 	public static void main(String[] args) {
 		
 		Gato gato1 = new Gato();
-		
+		//set nos valores
 		gato1.setNome(JOptionPane.showInputDialog("Digite o nome do gato:"));;		
 		gato1.setTipoPelo("Preto");
 		gato1.setRaca("Persa");
