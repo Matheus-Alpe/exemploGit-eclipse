@@ -15,8 +15,8 @@ public class Gato extends Felino {
 
 	@Override
 	public String toString() {
-		return "Gato [domesticado=" + domesticado + ", getNome()=" + getNome() + ", getTipoPelo()=" + getTipoPelo()
-				+ ", getRaca()=" + getRaca() + ", getTamanho()=" + getTamanho() + ", getPeso()=" + getPeso() + "]";
+		return "Gato [domesticado=" + domesticado + ", Nome =" + getNome() + ", Tipo Pelo =" + getTipoPelo()
+				+ ", Raça=" + getRaca() + ", Tamanho =" + getTamanho() + ", Peso =" + getPeso() + "]";
 	} 
 	
 	
